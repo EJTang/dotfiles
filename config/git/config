@@ -1,0 +1,9 @@
+[user]
+    name = Eddy J. Tang
+    email = ejtang@ualberta.ca
+
+[github]
+    user = ejtang
+
+[init]
+	defaultBranch = main
