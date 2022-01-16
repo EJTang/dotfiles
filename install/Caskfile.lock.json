@@ -2,7 +2,7 @@
   "entries": {
     "cask": {
       "google-chrome": {
-        "version": "96.0.4664.110",
+        "version": "97.0.4692.71",
         "options": {
           "full_name": "google-chrome"
         }
@@ -32,7 +32,7 @@
         }
       },
       "whatsapp": {
-        "version": "2.2147.16",
+        "version": "2.2149.4",
         "options": {
           "full_name": "whatsapp"
         }
@@ -56,9 +56,21 @@
         }
       },
       "rectangle": {
-        "version": "0.49,54",
+        "version": "0.50,55",
         "options": {
           "full_name": "rectangle"
+        }
+      },
+      "steam": {
+        "version": "4.0",
+        "options": {
+          "full_name": "steam"
+        }
+      },
+      "affinity-photo": {
+        "version": "1.10.4",
+        "options": {
+          "full_name": "affinity-photo"
         }
       }
     }
@@ -66,10 +78,10 @@
   "system": {
     "macos": {
       "monterey": {
-        "HOMEBREW_VERSION": "3.3.9",
+        "HOMEBREW_VERSION": "3.3.10",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "2f3ee55245d1e624df238c489817bedb9d1cf8c9",
-        "CLT": "13.0.0.0.1.1627064638",
+        "Homebrew/homebrew-core": "c793250ee93a62a151a24535fa830e0fac8dd21c",
+        "CLT": "13.2.0.0.1.1638488800",
         "Xcode": "13.1",
         "macOS": "12.1"
       }
