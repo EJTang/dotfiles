@@ -15,7 +15,7 @@ macos: sudo core-macos packages link
 
 linux: core-linux link
 
-core-macos: brew git
+core-macos: brew git npm
 
 core-linux:
 	apt-get update

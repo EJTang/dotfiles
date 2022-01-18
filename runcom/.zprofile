@@ -7,3 +7,5 @@ export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/b
 # Make utilities available
 export DOTFILES_DIR="$HOME/.dotfiles"
 export PATH="$DOTFILES_DIR/bin:$PATH"
+
+eval "$(fnm env --use-on-cd)"
